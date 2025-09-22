@@ -1,0 +1,17 @@
+langgraph
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+python-dotenv
+pydantic
+chromadb
+httpx
+beautifulsoup4
+duckduckgo-search
+numpy
+scikit-learn
+tiktoken
+sqlalchemy
+fastapi
+uvicorn
