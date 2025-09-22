@@ -24,7 +24,7 @@ A production-ready, scalable multi-agent system built with LangGraph, featuring 
 
 ### Prerequisites
 
-- Python 3.9+
+- Python 3.11+
 - API key for LLM (OpenAI/Antropic/Gemenai/xAI)
 - Base URL if use Ollama or Proxy like litellm
 
