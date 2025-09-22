@@ -25,7 +25,8 @@ A production-ready, scalable multi-agent system built with LangGraph, featuring 
 ### Prerequisites
 
 - Python 3.9+
-- OpenAI API key
+- API key for LLM (OpenAI/Antropic/Gemenai/xAI)
+- Base URL if use Ollama or Proxy like litellm
 
 ### Installation
 
@@ -384,7 +385,6 @@ MIT License
 
 - Built with [LangGraph](https://github.com/langchain-ai/langgraph)
 - Powered by [LangChain](https://github.com/langchain-ai/langchain)
-- Uses [OpenAI](https://openai.com) models
 
 ## 📧 Support
 
